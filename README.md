@@ -1,12 +1,22 @@
-# Hi, I'm Tanvi! 👋
+# 👋 Hi, I'm Tanvi Tupe!
 
-### 🚀 About Me
-I am a Software Developer focusing on quantitative analytics, interactive frontends, and intelligent telemetry ecosystems.
+Welcome to my GitHub profile! I am a passionate developer focused on building modern, premium web applications, clean user interfaces, and smart digital systems.
 
-### 💻 Featured Project
-* **[AI Quant Telemetry Dashboard](https://github.com/tanvitupe-code/ai-quant-telemetry-dashboard)** - A real-time, state-driven financial telemetry workspace featuring custom semantic asset query parsing and dynamic cyberpunk wave charts.
+---
 
-### 🛠️ Tech Stack
-* **Frontend:** React 18, TypeScript, Vite, Tailwind CSS
-* **Data Viz:** Recharts
-* **Version Control:** Git & GitHub
+## 🛠️ Tech Stack & Skills
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, Tailwind CSS
+* **Tools & Platforms:** Git, GitHub, Node.js, VS Code / Windsurf
+* **Core Focus:** Component Architecture, State Management, Responsive Design
+
+---
+
+## 🚀 Featured Projects
+Check out my latest repositories below! I love working on comprehensive digital dashboards, analytics comparison engines, and full-stack software configurations. 
+
+* 📱 **[AuraSpec Elite](https://github.com/tanvitupe-code/auraspec-elite):** My premium flagship catalog and side-by-side comparison matrix.
+
+---
+
+## 📬 Connect With Me
+* 🌐 Feel free to explore my repositories and star your favorite projects!
